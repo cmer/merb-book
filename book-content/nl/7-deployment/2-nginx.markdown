@@ -207,5 +207,5 @@ Om de Merb master en worker processen op te volgen, moet je volgende configurati
 [Glassfish]:                            https://glassfish.dev.java.net/
 [MacPorts]:                             http://macports.org/
 [Monit]:                                http://mmonit.com/monit/
-[monit\_merb\_mpc]:                       http://pastie.org/333352
+[monit\_merb\_mpc]:                     http://gist.github.com/183367
 [Ezra's blog]: http://brainspl.at/articles/2008/12/07/merb-master-worker-monit-control-setup

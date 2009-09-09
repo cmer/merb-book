@@ -206,7 +206,7 @@ you need to add this configuration to monit:
 [MacPorts]:                             http://macports.org/
 [Mongrel]:                              http://mongrel.rubyforge.org/
 [Monit]:                                http://mmonit.com/monit/
-[monit\_merb\_mpc]:                     http://pastie.org/333352
+[monit\_merb\_mpc]:                     http://gist.github.com/183367
 [Nginx]:                                http://wiki.codemongers.com/Main
 [proxy server]: http://en.wikipedia.org/wiki/Proxy_server
 [reverse proxy]: http://en.wikipedia.org/wiki/Reverse_proxy

@@ -209,7 +209,7 @@ vous devez ajouter ce code à votre configuration ``monit``:
 [Nginx Wiki]:                     http://wiki.codemongers.com/Main
 [Mongrel]:                        http://mongrel.rubyforge.org/
 [Monit]:                          http://mmonit.com/monit/
-[monit\_merb\_mpc]:               http://pastie.org/333352
+[monit\_merb\_mpc]:               http://gist.github.com/183367
 [Netcraft Survey 06/2008]:        http://survey.netcraft.com/Reports/200806/
 [Nginx]:                          http://wiki.codemongers.com/Main
 [reverse proxy]:                  http://fr.wikipedia.org/wiki/Reverse_proxy
